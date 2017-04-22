@@ -1,0 +1,105 @@
+body {background-color: #f7f7f7}
+
+.white {background-color: white;
+}
+
+#footer {background-color: red;
+	height:100px;
+	margin-bottom: 0;
+	}
+
+.header  {background-color: #ffffff;
+		font-family: Arial;
+		font-size: 18px;
+		display: block;
+		margin: auto;
+		text-align: center;
+		line-height: 2;
+		width: 100%;
+		height: 100px;
+		color: #777;
+		border-bottom-style: solid;
+    	border-bottom-color: #cccccc;
+    	border-bottom-width: 2px;
+
+}
+
+.navbar {background-color: red;}
+
+#profilepic {height: 200px;
+
+
+}
+
+#imgsize {height: 65px;
+}
+
+.footer {position:fixed;
+    bottom: 0;
+    background-color: #666666;
+    height: 100px;
+    width: 100%;
+	border-top-style: solid;
+    border-top-color: #4aaaa5;
+    border-top-width: 10px;
+    text-align: center;
+    line-height: 6;
+    font-size: 15px;
+    color: white;
+}
+
+.h3 {height: 50px;
+}
+
+.maincontainer {border-style: solid;
+		height: 500px;
+		width: 590px;
+		margin-left: 100px;
+		margin-top: 25px;
+}
+
+.margintop {margin-top: 0;
+}
+
+.marginleft {margin-left: 100px;
+
+}
+
+.border {border-style: solid;}
+
+.pageheader1{color: #4aaaa5;
+}
+
+.rightmain {height: 100%;}
+
+.connect {margin-left: 40px;
+	margin-top: 25px;
+}
+
+.connectsize {height: 200px;
+}
+
+.img {height: 200px;
+}
+
+
+.container3 {margin: 10px;
+
+
+}
+
+.rightside {display: block;
+			font-color: #777777;
+			background-color: #ffffff;
+			height: 200px;
+			width: 270px;
+			margin-left: 850px;
+			margin-top: 40px;
+			position: absolute;
+			border-style: solid;
+    		border-color: #cccccc;
+    		border-width: 1px;
+    		text-decoration: none;
+   }
+
+
